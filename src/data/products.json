@@ -1,0 +1,104 @@
+[
+    {
+        "id": "Boots",
+        "nombre": "Adidas kakari",
+        "precio": 172,
+        "imagen": "",
+        "descripcion": "Boots Rugby",
+        "categoria": {
+            "id": "Boots",
+            "nombre": "Boots"
+        }
+    },
+    {
+        "id": "Jersey",
+        "nombre": "Adidas Jersey Rugby",
+        "precio": 145,
+        "imagen": "",
+        "descripcion": "New zeland Jersey Rugby",
+        "categoria": {
+            "id": "Jersey",
+            "nombre": "Jersey"
+        }
+    },
+    {
+        "id":"Boots",
+        "nombre": "Nike Tiempo ",
+        "precio": 144,
+        "imagen": "",
+        "descripcion": "Nike Tiempo Boots",
+        "categoria": {
+            "id": "Boots",
+            "nombre": "Boots"
+        }
+        }
+    ,
+    {
+        "id": "Boots",
+        "nombre": "Adidas Predator",
+        "precio": 170,
+        "imagen": "",
+        "descripcion": "Adidas Boots Predator Rugby",
+        "categoria": {
+            "id": "Boots",
+            "nombre": "Boots"
+        }
+        }
+    ,
+    {
+        "id": "Jersey",
+        "nombre": "Le Coq Sportif Jersey Rugby",
+        "precio": 145,
+        "imagen": "",
+        "descripcion": "Argentina Jersey Rugby",
+        "categoria": {
+            "id": "Jersey",
+            "nombre": "Jersey"
+        }
+    },
+    {
+        "id": "Jersey",
+        "nombre": "Adidas Jersey Rugby",
+        "precio": 145,
+        "imagen": "",
+        "descripcion": "France Jersey Rugby",
+        "categoria": {
+            "id": "Jersey",
+            "nombre": "Jersey"
+        }
+    },
+    {
+        "id": "Boots",
+        "nombre": "Umbro Boots Rugby",
+        "precio": 17,
+        "imagen": "",
+        "descripcion": "Umbro Boots Rugby",
+        "categoria": {
+            "id": "Boots",
+            "nombre": "Boots"
+        }
+        
+    },
+    {
+        "id": "Jersey",
+        "nombre": "Adidas Jersey Rugby",
+        "precio": 145,
+        "imagen": "",
+        "descripcion": "England Jersey Rugby",
+        "categoria": {
+            "id": "Jersey",
+            "nombre": "Jersey"
+        }
+    },
+    {
+        "id": "Short",
+        "nombre": "Short Adidas Rugby",
+        "precio": 20,
+        "imagen": "",
+        "descripcion": "Short Argentina Rugby",
+        "categoria": {
+            "id": "Short",
+            "nombre": "Short"
+        }
+    }
+]
